@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 ![GitHub followers](https://img.shields.io/github/followers/GainLos?style=social)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=GainLos)
 
-This is GainLos, aka. **Lu Yinsong**, a sophomore at SJTU majoring in Software Engineering.  
+This is GainLos, aka. **Lu Yinsong**, a sophomore at SJTU majoring in Software Engineering. 👒
 
 
 ### Hobbies
-- 3A FPS Games (BattleFieldsV etc.) are my favourites! 🎮 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=GainLos" />
+- 🔫FPS Games (OverWatch ApexLegends PUBG etc.) are my favourites! 🎮 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=GainLos" />
 - Sleep... 🛌
 
 ### About me
-🤔 I'm now interested in Web Application. Any ideas are welcome! 🍻   
+😄I'm now interested in System Workflow. Any ideas are welcome!  
 
 📫 Email: gain-los@sjtu.edu.cn
