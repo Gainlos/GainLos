@@ -17,13 +17,11 @@ Here are some ideas to get you started:
 ![GitHub followers](https://img.shields.io/github/followers/GainLos?style=social)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=GainLos)
 
-😎 This is GainLos, aka. **Lu Yinsong**, a sophomore🧑‍🎓 at SJTU majoring in Software Engineering.  
+This is GainLos, aka. **Lu Yinsong**, a sophomore at SJTU majoring in Software Engineering.  
 
 
 ### Hobbies
 - 3A FPS Games (BattleFieldsV etc.) are my favourites! 🎮 <img align='right' width=460px src='https://github-readme-stats.vercel.app/api?username=GainLos&show_icons=true&count_private=true&hide_title=true'/>
-- Movies (espacially War, Science Fictions) 🎞️
-- Travelling ✈️
 - Sleep... 🛌
 
 ### About me
