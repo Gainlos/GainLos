@@ -25,6 +25,7 @@ This is GainLos, aka. **Lu Yinsong**, a sophomore at SJTU majoring in Software E
 - Sleep... 🛌
 
 ### About me
-😄I'm now interested in System Workflow. Any ideas are welcome!  
+😄I'm thinking about the reason we live in the world for.
+🍩Smiling in the wind~
 
 📫 Email: gain-los@sjtu.edu.cn
