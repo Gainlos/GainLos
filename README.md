@@ -21,7 +21,7 @@ This is GainLos, aka. **Lu Yinsong**, a sophomore at SJTU majoring in Software E
 
 
 ### Hobbies
-- 3A FPS Games (BattleFieldsV etc.) are my favourites! 🎮 [![GainLos's github stats](//p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1188110e11c84be89e6c60130622635a~tplv-k3u1fbpfcp-zoom-1.image)](https://github.com/GainLos/github-readme-stats)
+- 3A FPS Games (BattleFieldsV etc.) are my favourites! 🎮 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=GainLos" />
 - Sleep... 🛌
 
 ### About me
